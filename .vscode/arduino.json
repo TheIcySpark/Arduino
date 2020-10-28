@@ -1,0 +1,4 @@
+{
+    "sketch": "Reloj binario/reloj_binario.ino",
+    "board": "arduino:avr:uno"
+}
