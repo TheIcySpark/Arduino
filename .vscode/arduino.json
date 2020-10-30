@@ -1,4 +1,5 @@
 {
     "sketch": "Reloj binario/reloj_binario.ino",
-    "board": "arduino:avr:uno"
+    "board": "arduino:avr:uno",
+    "port": "/dev/ttyACM0"
 }
