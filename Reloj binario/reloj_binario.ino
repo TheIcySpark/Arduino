@@ -30,7 +30,7 @@ void mostrar_hora(){
         digitalWrite(i + 2, *(minutos_binario + i) );
     }
     for(int i = 0; i < 4; i++){
-        digitalWrite(i + 6, *(horas_binario + i) );
+        digitalWrite(i + 9, *(horas_binario + i) );
     }
 }
 
