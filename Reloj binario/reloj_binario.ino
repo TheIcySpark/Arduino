@@ -46,6 +46,7 @@ void calcular_hora(){
             if(minutos >= 60){
                 horas ++ ;
                 minutos = 0;
+                if(horas > 12) horas = 0;
             }
         }
         delay(500);

@@ -3,11 +3,10 @@
         {
             "name": "Linux",
             "includePath": [
-                "/home/theicyspark/.arduino15/packages/arduino/tools/**",
-                "/home/theicyspark/.arduino15/packages/arduino/hardware/avr/1.8.2/**"
+                "/home/theicyspark/Downloads/Aplicaciones/Arduino IDE/arduino-1.8.13-linux64/Arduino/**"
             ],
             "forcedInclude": [
-                "/home/theicyspark/.arduino15/packages/arduino/hardware/avr/1.8.2/cores/arduino/Arduino.h"
+                "/home/theicyspark/Downloads/Aplicaciones/Arduino IDE/arduino-1.8.13-linux64/Arduino/hardware/arduino/avr/cores/arduino/Arduino.h"
             ],
             "intelliSenseMode": "gcc-x64",
             "compilerPath": "/usr/bin/gcc",
